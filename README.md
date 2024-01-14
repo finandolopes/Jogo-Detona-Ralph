@@ -1,4 +1,4 @@
-# detona-ralph
+# Detona-Ralph
 > Desafio DIO - Criando um Jogo do Detona Ralph com JavaScript
 
 ## 📋 Índice
